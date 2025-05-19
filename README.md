@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Gitel Feldman
 
-🌟 Autodidact Software Engineer | 🚀 Cloud-Certified | 🎯 Vision & AI Enthusiast
+🌟 Autodidact Software Engineer | 🚀 Cloud-Certified | 🎯 Computer Vision & AI Enthusiast
 
 ---
 
