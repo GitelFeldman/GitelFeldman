@@ -23,16 +23,35 @@ I'm Gitel — a passionate and hands-on **Software Engineer** with a love for cl
 ## 🔧 Tech Toolbox
 
 **Languages:**  
-`C++` `Python` `Node.js` `C#` `Java`  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-FF7F00?style=for-the-badge&logo=verilog&logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-007ACC?style=for-the-badge&logo=systemverilog&logoColor=white)
 
 **Frameworks & Tools:**  
-`OpenCV` `YOLOv5` `TensorFlow` `Docker` `Flask` `gRPC` `CMake` `Git` `Jira` `Swagger`
+![OpenCV](https://img.shields.io/badge/OpenCV-F7F7F7?style=for-the-badge&logo=opencv&logoColor=black) 
+![YOLOv5](https://img.shields.io/badge/YOLOv5-black?style=for-the-badge&logo=yolov5&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-5282FF?style=for-the-badge&logo=grpc&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 **Databases:**  
-`SQL Server` `MongoDB`
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Cloud & DevOps:**  
-`AWS (Certified)` `Docker` `Gmail API`
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
 
 ---
 
