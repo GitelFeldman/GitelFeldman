@@ -22,31 +22,97 @@ I'm Gitel — a passionate and hands-on **Software Engineer** with a love for cl
 ## 🔧 Tech Toolbox
 
 **Languages:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/verilog/verilog-original.svg" alt="Verilog" width="40" height="40" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/systemverilog/systemverilog-original.svg" alt="SystemVerilog" width="40" height="40" />
+<div style="display: flex; gap: 20px; align-items: center;">
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+    <div style="font-size: 10px;">Python</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+    <div style="font-size: 10px;">C++</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
+    <div style="font-size: 10px;">Node.js</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
+    <div style="font-size: 10px;">C#</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+    <div style="font-size: 10px;">Java</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/verilog/verilog-original.svg" alt="Verilog" width="40" height="40" />
+    <div style="font-size: 10px;">Verilog</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/systemverilog/systemverilog-original.svg" alt="SystemVerilog" width="40" height="40" />
+    <div style="font-size: 10px;">SystemVerilog</div>
+  </div>
+</div>
 
 **Frameworks & Tools:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" alt="Swagger" width="40" height="40" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grpc/grpc-original.svg" alt="gRPC" width="40" height="40" />
+<div style="display: flex; gap: 20px; align-items: center;">
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40" />
+    <div style="font-size: 10px;">OpenCV</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" />
+    <div style="font-size: 10px;">TensorFlow</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
+    <div style="font-size: 10px;">Docker</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" />
+    <div style="font-size: 10px;">Git</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" alt="Swagger" width="40" height="40" />
+    <div style="font-size: 10px;">Swagger</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40" />
+    <div style="font-size: 10px;">Flask</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grpc/grpc-original.svg" alt="gRPC" width="40" height="40" />
+    <div style="font-size: 10px;">gRPC</div>
+  </div>
+</div>
 
 **Databases:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
+<div style="display: flex; gap: 20px; align-items: center;">
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40" />
+    <div style="font-size: 10px;">SQL Server</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
+    <div style="font-size: 10px;">MongoDB</div>
+  </div>
+</div>
 
 **Cloud & DevOps:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail API" width="40" height="40" />
+<div style="display: flex; gap: 20px; align-items: center;">
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40" />
+    <div style="font-size: 10px;">AWS</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
+    <div style="font-size: 10px;">Docker</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail API" width="40" height="40" />
+    <div style="font-size: 10px;">Gmail API</div>
+  </div>
+</div>
+
 ---
 
 ## 💼 Experience Highlights
