@@ -22,34 +22,33 @@ I'm Gitel — a passionate and hands-on **Software Engineer** with a love for cl
 ## 🔧 Tech Toolbox
 
 **Languages:**  
-<div style="display: flex; gap: 20px; flex-wrap: nowrap; align-items: center;">
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-    <div style="font-size: 10px;">Python</div>
+<div style="display: flex; flex-wrap: nowrap; gap: 30px; align-items: center; overflow-x: auto; white-space: nowrap;">
+  <div style="text-align: center; flex: 0 0 auto;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" />
+    <div style="font-size: 11px; margin-top: 5px;">Python</div>
   </div>
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-    <div style="font-size: 10px;">C++</div>
+  <div style="text-align: center; flex: 0 0 auto;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" />
+    <div style="font-size: 11px; margin-top: 5px;">C++</div>
   </div>
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
-    <div style="font-size: 10px;">C#</div>
+  <div style="text-align: center; flex: 0 0 auto;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50" />
+    <div style="font-size: 11px; margin-top: 5px;">C#</div>
   </div>
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-    <div style="font-size: 10px;">Java</div>
+  <div style="text-align: center; flex: 0 0 auto;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50" />
+    <div style="font-size: 11px; margin-top: 5px;">Java</div>
   </div>
-  <!-- אייקון ורילוג - משתמש בתמונה חיצונית -->
-  <div style="text-align: center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Verilog_Logo.svg/120px-Verilog_Logo.svg.png" alt="Verilog" width="40" height="40" />
-    <div style="font-size: 10px;">Verilog</div>
+  <div style="text-align: center; flex: 0 0 auto;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Verilog_Logo.svg/120px-Verilog_Logo.svg.png" alt="Verilog" width="50" height="50" />
+    <div style="font-size: 11px; margin-top: 5px;">Verilog</div>
   </div>
-  <!-- אייקון סיסטם ורילוג - משתמש בתמונה חיצונית אחרת -->
-  <div style="text-align: center;">
-    <img src="https://www.eetimes.com/wp-content/uploads/2017/04/systemverilog-1-450x249.png" alt="SystemVerilog" width="40" height="40" />
-    <div style="font-size: 10px;">SystemVerilog</div>
+  <div style="text-align: center; flex: 0 0 auto;">
+    <img src="https://www.eetimes.com/wp-content/uploads/2017/04/systemverilog-1-450x249.png" alt="SystemVerilog" width="50" height="50" />
+    <div style="font-size: 11px; margin-top: 5px;">SystemVerilog</div>
   </div>
 </div>
+
 
 
 **Frameworks & Tools:**  
