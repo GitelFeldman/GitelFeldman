@@ -21,15 +21,15 @@ I'm Gitel — a passionate and hands-on **Software Engineer** with a love for cl
 ---
 
 ## 🔧 Tech Toolbox
-
 **Languages:**  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-FF7F00?style=for-the-badge&logo=verilog&logoColor=white)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-007ACC?style=for-the-badge&logo=systemverilog&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
+![Verilog](https://img.shields.io/badge/-Verilog-FF7F00?style=flat&logo=verilog&logoColor=white)  
+![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-007ACC?style=flat&logo=systemverilog&logoColor=white)
+
 
 **Frameworks & Tools:**  
 ![OpenCV](https://img.shields.io/badge/OpenCV-F7F7F7?style=for-the-badge&logo=opencv&logoColor=black) 
