@@ -75,7 +75,9 @@ Developed a full-stack platform for scheduling, assignment tracking, and teacher
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitelFeldman&layout=compact&theme=tokyonight)
 
-
+![Profile views](https://komarev.com/ghpvc/?username=GitelFeldman&color=blue)
+![AWS Certified](https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange)
+![Python](https://img.shields.io/badge/Python-Expert-blue)
 ---
 
 ## 📫 Let’s Connect
