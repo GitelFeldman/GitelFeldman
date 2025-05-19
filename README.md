@@ -22,7 +22,7 @@ I'm Gitel — a passionate and hands-on **Software Engineer** with a love for cl
 ## 🔧 Tech Toolbox
 
 **Languages:**  
-<div style="display: flex; gap: 20px; align-items: center;">
+<div style="display: flex; gap: 20px; flex-wrap: nowrap; align-items: center;">
   <div style="text-align: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" />
     <div style="font-size: 10px;">Python</div>
@@ -32,10 +32,6 @@ I'm Gitel — a passionate and hands-on **Software Engineer** with a love for cl
     <div style="font-size: 10px;">C++</div>
   </div>
   <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
-    <div style="font-size: 10px;">Node.js</div>
-  </div>
-  <div style="text-align: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
     <div style="font-size: 10px;">C#</div>
   </div>
@@ -43,15 +39,18 @@ I'm Gitel — a passionate and hands-on **Software Engineer** with a love for cl
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" />
     <div style="font-size: 10px;">Java</div>
   </div>
+  <!-- אייקון ורילוג - משתמש בתמונה חיצונית -->
   <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/verilog/verilog-original.svg" alt="Verilog" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Verilog_Logo.svg/120px-Verilog_Logo.svg.png" alt="Verilog" width="40" height="40" />
     <div style="font-size: 10px;">Verilog</div>
   </div>
+  <!-- אייקון סיסטם ורילוג - משתמש בתמונה חיצונית אחרת -->
   <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/systemverilog/systemverilog-original.svg" alt="SystemVerilog" width="40" height="40" />
+    <img src="https://www.eetimes.com/wp-content/uploads/2017/04/systemverilog-1-450x249.png" alt="SystemVerilog" width="40" height="40" />
     <div style="font-size: 10px;">SystemVerilog</div>
   </div>
 </div>
+
 
 **Frameworks & Tools:**  
 <div style="display: flex; gap: 20px; align-items: center;">
