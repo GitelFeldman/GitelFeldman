@@ -68,6 +68,14 @@ Developed a full-stack platform for scheduling, assignment tracking, and teacher
 🎓 **B.Sc. in Computer Science** @ The Open University of Israel  
 🎓 **Deep Learning & Computer Vision** @ The OpenCV University  
 
+
+## 📊 GitHub Stats
+
+![Gitel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitelFeldman&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitelFeldman&layout=compact&theme=tokyonight)
+
+
 ---
 
 ## 📫 Let’s Connect
