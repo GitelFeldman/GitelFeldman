@@ -19,97 +19,61 @@ I'm Gitel — a passionate and hands-on **Software Engineer** with a love for cl
 - 🧑‍🏫 **Python Mentor** – guiding others in writing clean code and building robust systems.
 
 ---
-## 🔧 Tech Toolbox
+## 🛠️ Technologies I Work With
 
-**Languages:**  
-<div style="display: flex; flex-wrap: nowrap; gap: 30px; align-items: center; overflow-x: auto; white-space: nowrap;">
-  <div style="text-align: center; flex: 0 0 auto;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" />
-    <div style="font-size: 11px; margin-top: 5px;">Python</div>
-  </div>
-  <div style="text-align: center; flex: 0 0 auto;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" />
-    <div style="font-size: 11px; margin-top: 5px;">C++</div>
-  </div>
-  <div style="text-align: center; flex: 0 0 auto;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50" />
-    <div style="font-size: 11px; margin-top: 5px;">C#</div>
-  </div>
-  <div style="text-align: center; flex: 0 0 auto;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50" />
-    <div style="font-size: 11px; margin-top: 5px;">Java</div>
-  </div>
-  <div style="text-align: center; flex: 0 0 auto;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Verilog_Logo.svg/120px-Verilog_Logo.svg.png" alt="Verilog" width="50" height="50" />
-    <div style="font-size: 11px; margin-top: 5px;">Verilog</div>
-  </div>
-  <div style="text-align: center; flex: 0 0 auto;">
-    <img src="https://www.eetimes.com/wp-content/uploads/2017/04/systemverilog-1-450x249.png" alt="SystemVerilog" width="50" height="50" />
-    <div style="font-size: 11px; margin-top: 5px;">SystemVerilog</div>
-  </div>
-</div>
+### 🧑‍💻 Programming Languages & Frameworks
 
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MaterialUI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+</p>
 
+---
 
-**Frameworks & Tools:**  
-<div style="display: flex; gap: 20px; align-items: center;">
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40" />
-    <div style="font-size: 10px;">OpenCV</div>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" />
-    <div style="font-size: 10px;">TensorFlow</div>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
-    <div style="font-size: 10px;">Docker</div>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" />
-    <div style="font-size: 10px;">Git</div>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" alt="Swagger" width="40" height="40" />
-    <div style="font-size: 10px;">Swagger</div>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40" />
-    <div style="font-size: 10px;">Flask</div>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grpc/grpc-original.svg" alt="gRPC" width="40" height="40" />
-    <div style="font-size: 10px;">gRPC</div>
-  </div>
-</div>
+### 🖥️ Work Environments & IDEs
 
-**Databases:**  
-<div style="display: flex; gap: 20px; align-items: center;">
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40" />
-    <div style="font-size: 10px;">SQL Server</div>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
-    <div style="font-size: 10px;">MongoDB</div>
-  </div>
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
 
-**Cloud & DevOps:**  
-<div style="display: flex; gap: 20px; align-items: center;">
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40" />
-    <div style="font-size: 10px;">AWS</div>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
-    <div style="font-size: 10px;">Docker</div>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail API" width="40" height="40" />
-    <div style="font-size: 10px;">Gmail API</div>
-  </div>
-</div>
+---
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+---
+
+### ⚙️ Tools & DevOps
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white"/>
+</p>
 
 ---
 
